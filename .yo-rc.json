@@ -1,0 +1,19 @@
+{
+  "generator-jhipster": {
+    "baseName": "first",
+    "packageName": "org.example.first",
+    "packageFolder": "org/example/first",
+    "authenticationType": "oauth2",
+    "hibernateCache": "ehcache",
+    "clusteredHttpSession": "no",
+    "websocket": "no",
+    "databaseType": "sql",
+    "devDatabaseType": "h2Memory",
+    "prodDatabaseType": "mysql",
+    "useCompass": false,
+    "buildTool": "maven",
+    "frontendBuilder": "grunt",
+    "javaVersion": "8",
+    "rememberMeKey": "d8a90a35dd884e6b978615dd54fa98b041e32b5b"
+  }
+}
